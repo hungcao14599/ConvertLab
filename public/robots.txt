@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hungcao14599.github.io/ConvertLab/sitemap.xml
+Sitemap: https://convertlab.vercel.app/sitemap.xml
