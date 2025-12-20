@@ -276,7 +276,7 @@ function App() {
           <div className="pill-row">
             <span className="pill">Hoạt động tức thì</span>
             <span className="pill">Chọn phạm vi & đổi chiều dễ dàng</span>
-            <span className="pill">Sẵn sàng cho mobile</span>
+            <span className="pill">Sẵn sàng cho mobile IOS và Android</span>
           </div>
         </header>
 
